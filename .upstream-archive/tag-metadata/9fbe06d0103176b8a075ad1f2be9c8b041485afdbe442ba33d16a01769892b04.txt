@@ -1,0 +1,12 @@
+Original tag name: v0.2.0
+Original tag object: c03176b59d4084791109d3a9accaad3113730833
+Original target commit: 294585dcd05980bfc551c8bba0f7cf77f8fac305
+Original object type: tag
+
+--- Original annotated tag object body ---
+object 294585dcd05980bfc551c8bba0f7cf77f8fac305
+type commit
+tag v0.2.0
+tagger Ahmed Nefzaoui <nefzaoui.a@gmail.com> 1793443452 +0100
+
+Mister Download Manager 0.2.0
